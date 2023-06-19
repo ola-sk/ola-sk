@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ola-sk
-- 🌱 Currently I am studying Full-Stack Development course with "Codecool" (until June 2023).
-- 👀 Python, C++, Flutter, Java etc.
+- 🌱 I am studying Full-Stack Development course with "Codecool" (until August 2023).
+- 💻 Java, Python, JavaScript, CSS, HTML.
+- Frameworks: Spring, Svelte, React.
 
 - 📫 You can reach me via email: olask.collab at gmail.com.
 
