@@ -21,7 +21,7 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/202540780-999f189c-341a-438e-a7e3-b0838fda6645.png" alt="Spock" title="Spock"/></td>
 		</tr>
 		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></td>
+			<td><img width="50" src="https://github.com/ola-sk/ola-sk/assets/50403262/5741f05c-011b-4742-9b91-af0c2b588c80" alt="websocket" title="websocket"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></td>
