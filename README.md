@@ -1,14 +1,15 @@
 # 👋 Hi, I’m Ola 
-[1]: https://github.com/ola-sk/ola-sk/assets/50403262/80a17ff1-60f1-4584-ae90-f6a91ccedb7d
-[2]: https://www.linkedin.com/in/ola-sokolek/
-[![See My LinkedIn Profile][1]][2] [Connect With me on LinkedIn][2]
+<a href="https://www.linkedin.com/in/olasokolek/">![Connect On LinkedIn](https://img.shields.io/badge/-olasokolek-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Folasokolek%2F)
+</a>
+<a href="mailto:ola.sokolek@gmail.com">![Send Me an E-mail](https://img.shields.io/badge/-ola.sokolek-C61C19?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ola.sokolek@gmail.com)
+</a>
 
-📫 Reach me via email: olask.collab at gmail.com.
 - 🌱 I am studying Full-Stack Development course with "Codecool"
 - 💻 Java, Python, JavaScript, CSS, HTML.
 
+
 ### Technologies I worked with:
-<div align="center">
+<div align="center" style="margin-bottom: 50px;">
 	<table>
 		<tr>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
@@ -49,4 +50,10 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
 		</tr>
 	</table>
+</div>
+<br><br><br><br><br><br>
+<hr>
+<div align="center">
+<a href="https://www.linkedin.com/in/olasokolek/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/50403262/250610239-80a17ff1-60f1-4584-ae90-f6a91ccedb7d.svg" alt="Connect On LinkedIn" title="Connect With Me On LinkedIn" width="24">
+</a>
 </div>
