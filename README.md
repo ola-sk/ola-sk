@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Ola Sokołek
-#### A Full-Stack Software Developer based in Amsterdam, NL 🌷🚲
+# 👋 Hi, I’m [Ola Sokołek](https://olasok.dev/)
+#### A Full-Stack Software Developer in making based in Amsterdam, NL 🌷🚲
 
 ## 📨 Reach me via
 <a href="https://www.linkedin.com/in/olasokolek/">![Connect On LinkedIn](https://img.shields.io/badge/-olasokolek-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Folasokolek%2F)
@@ -13,16 +13,23 @@
 
 👩🏻‍💻 Well versed in Java, Python and JavaScript
 
+👁️ An eye for aesthetics. I like coding front-end in CSS, but have a lot to learn on 
 
 ♾️ Passionate about continuous learning
 
-🛠️ Currently preparing my portfolio website with Svelte and will be deploying on AWS using CloudFront and Serverless
+## 🛠️ Some of my plans for future 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/ola-sk/ola-sk/assets/50403262/68f1358e-c6c2-4782-ba98-bdfce4682479">
    	<source media="(prefers-color-scheme: light)" srcset="https://github.com/ola-sk/ola-sk/assets/50403262/b0fa9348-3d94-4cc2-8a9f-8c1e367ab971">
-	<img width="20" src="https://github.com/ola-sk/ola-sk/assets/50403262/68f1358e-c6c2-4782-ba98-bdfce4682479" alt="AWS" title="AWS"/></picture>&nbsp; Studying AWS Cloud Technologies and planning to pass the Cloud Practitioner exam at the end of September 2023
+	<img width="20" src="https://github.com/ola-sk/ola-sk/assets/50403262/68f1358e-c6c2-4782-ba98-bdfce4682479" alt="AWS" title="AWS"/></picture>&nbsp; Study AWS Cloud Technologies and getting Hands-on experience through labs and live projects. Document my progress on [my presonal website](https://olasok.dev/) and get AWS Cloud Architect Associate certification.
+ 
+📈 📐 Study / review mathematics for study of Applied Mathematics: Data Science
 
-## Technologies that I know or worked with
+<img width="20" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/> <img width="20" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/> <img width="20" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/> Review Java, Spring and Hybernate and create projects.
+
+⚖️ Balance my work, development and self care.
+
+## Technologies I worked with
 
 <div align="center" style="margin-bottom: 50px;">
 	<table>
